@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+*.sw*
+*.sublime-*
+
+# Node (si más adelante añades NPM)
+node_modules/
+dist/
+
+# Parcel / Vite / Webpack outputs
+.cache/
+build/
+
+# Env files
+.env
